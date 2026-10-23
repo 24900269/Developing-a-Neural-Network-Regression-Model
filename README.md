@@ -1,11 +1,10 @@
 # Developing a Neural Network Regression Model
 
 ## AIM
-To develop a neural network regression model for the given dataset.
+To develop a neural network regression model to predict a student's final marks based on the number of hours they study
 
 ## THEORY
-Explain the problem statement
-
+In educational institutions, understanding the direct impact of study habits on academic performance is crucial. The goal of this project is to build a predictive system that takes a single continuous feature—the number of hours a student spends studying—and outputs a continuous numerical prediction of their expected final exam score. Because the target variable (marks) is a continuous numerical value rather than a discrete category, this challenge is classified as a regression problem
 ## Neural Network Model
 Include the neural network model diagram.
 
